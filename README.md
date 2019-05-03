@@ -7,8 +7,8 @@ $ git clone git@github.com:hoominkani/docker-django.git
 $ docker-compose up
 ```
 
-You can visit your app at<https://localhost> and the admin site
-at <https://localhost/admin>.
+You can visit your app at<http://localhost> and the admin site
+at <http://localhost/admin>.
 
 Stack and version numbers used:
 
